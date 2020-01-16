@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+![Twitter Follow](https://img.shields.io/twitter/follow/MichaelHettmer?label=Follow&style=social)
+
 ## Round 1
 
 [Click here to see my progress and the complete log](r1-log.md)
