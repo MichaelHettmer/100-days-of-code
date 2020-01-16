@@ -10,8 +10,9 @@
 
 1. Build a **portfolio** website about all my personal and professional software projects as well as publications and research as a PhD student
 2. Create and host my own **blog** on that website to share my thoughts and gained knowledge
-3. Customize and adapt **RevealJS** to create a presentation framework for my upcoming talks as a PhD student including an automated CI / CD workflow
-4. Setup a similiar CI / CD workflow for **LaTeX** as well
+3. Publish useful functions and components as new **libraries** on GitHub and maintain and setup automated workflows for my existing OpenSource projects
+4. Customize and adapt **RevealJS** to create a presentation framework for my upcoming talks as a PhD student including an automated CI / CD workflow
+5. Setup a similiar CI / CD workflow for **LaTeX** as well
 
 ### Main programming languages
 
