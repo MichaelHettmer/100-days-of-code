@@ -18,3 +18,14 @@ Tweet: https://twitter.com/MichaelHettmer/status/1224829842094542848?s=20
 
 Tweet: https://twitter.com/MichaelHettmer/status/1225185412836155392
 Project: https://github.com/MichaelHettmer/latex-toolkit
+
+## R1D003 - February 6, Tuesday, 2020
+
+- Made some progress on latex-toolkit. Mostly building the base for the CLI functionality.
+- Until now all the code was written [test-driven](https://en.wikipedia.org/wiki/Test-driven_development) as much as possible.
+- Learned a lot about Yeoman, Yargs and InquirerJS.
+- Gonna build some configurable templates tomorrow.
+
+
+Tweet: https://twitter.com/MichaelHettmer/status/1225553331969568771
+Project: https://github.com/MichaelHettmer/latex-toolkit
