@@ -27,5 +27,14 @@ Project: https://github.com/MichaelHettmer/latex-toolkit
 - Gonna build some configurable templates tomorrow.
 
 
-Tweet: https://twitter.com/MichaelHettmer/status/1225553331969568771
+Tweet: https://twitter.com/MichaelHettmer/status/1225553331969568771<br/>
 Project: https://github.com/MichaelHettmer/latex-toolkit
+
+## R1D004 - February 7, Tuesday, 2020
+
+- I have created a package for all my @yeoman generators and templates. Will save me a lot of time future.
+- First time I tried a Pomodoro-based time tracker app. Turned out this is indeed a great way to stay focused. Didn't get lost in the rabbit hole today.
+- Tomorrow I will concentrate much more on the actual cli code. Infrastructure setup is finally completed 🤖
+
+Tweet: https://twitter.com/MichaelHettmer/status/1225813771387625475<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
