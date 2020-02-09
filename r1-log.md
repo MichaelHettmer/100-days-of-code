@@ -38,3 +38,11 @@ Project: https://github.com/MichaelHettmer/latex-toolkit
 
 Tweet: https://twitter.com/MichaelHettmer/status/1225813771387625475<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D005 - February 8, Tuesday, 2020
+
+- Got lost in improving the infrastructure and build tools again. Too much automation. I guess my code doesn't need me anymore 😀
+- I also added a first actual template and the required copying logic. That part was quite tricky but I got it working 🎉
+
+Tweet: https://twitter.com/MichaelHettmer/status/1226308424322953216<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
