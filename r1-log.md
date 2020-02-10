@@ -46,3 +46,14 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1226308424322953216<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D006 - February 9, Tuesday, 2020
+
+- Had to meet an important deadline today so couldn't get much done here ⏱️
+- Nevertheless I worked a small night shift to add a master generator which can be used as a launcher for all available @yeoman subgenerators
+- All subgenerators are presented as an interactive list which the user can choose one generator from
+- The chosen generator is started as a subprocess afterwards
+- Now the user doesn't have to know which generators are included and can easily select one from a nice list 🧒
+
+Tweet: https://twitter.com/MichaelHettmer/status/1226680736834637824<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
