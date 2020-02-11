@@ -57,3 +57,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1226680736834637824<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D007 - February 10, Tuesday, 2020
+
+- Another late shift today 🌙
+- But I finally have some running code to show, see GIF in linked tweet below.
+- This is generating a starter template for developing a Docker image with an automated build and release setup.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1227073629936128000<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
