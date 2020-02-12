@@ -66,3 +66,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1227073629936128000<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D008 - February 11, Tuesday, 2020
+
+- Nothing spectacular new today.
+- Fought some config files for hours 👿 CircleCI didn't like me today.
+- Finally my generator truly generates a new project. Including a brand new GitHub repository and a CircleCI project.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1227391862304116736<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
