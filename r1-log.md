@@ -75,3 +75,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1227391862304116736<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D009 - February 12, Tuesday, 2020
+
+- Played around a lot with @Docker and @gatsbyjs today.
+- Used my template generator to publish a small utility Docker image for building GatsbyJS projects in a CI.
+- Template generator works great. It doesn't even take a minute until a new OpenSource project is setup including CI/CD.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1227748468845883394<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
