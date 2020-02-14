@@ -84,3 +84,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1227748468845883394<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D010 - February 13, Tuesday, 2020
+
+- A lot of @yeoman generator refactoring today.
+- Extracted code into base modules so that I can reuse them later.
+- Learned some new things about TypeScript generics while doing that.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1228109667978575872<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
