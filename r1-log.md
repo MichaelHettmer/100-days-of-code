@@ -93,3 +93,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1228109667978575872<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D011 - February 14, Tuesday, 2020
+
+- Wrote some unit and integration tests with Jest today.
+- Making sure those automated dependency upgrades won't break anything.
+- Learned a lot from @kentcdodds's blog about testing and best practices.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1228489884689747973<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
