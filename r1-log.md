@@ -102,3 +102,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1228489884689747973<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D012- February 15, Tuesday, 2020
+
+- Did not have as much time today as planned.
+- Created another template for #nodejs libraries and applications.
+- Tomorrow I'll create a @gatsbyjs template based on it which will come in very handy when I build my portfolio / blog as the final R1 project.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1228881650383237122<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
