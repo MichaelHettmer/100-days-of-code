@@ -111,3 +111,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1228881650383237122<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D013- February 16, Tuesday, 2020
+
+- A lot of bugfixes and small improvements today.
+- No this is not the release notes section of every app I have on my phone 😀
+- Seriously made my template generator much more bulletproof and added new cli options to skip some steps e.g. while testing.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1229155478036455425<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
