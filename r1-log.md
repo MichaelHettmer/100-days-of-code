@@ -103,7 +103,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1228489884689747973<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D012- February 15, Tuesday, 2020
+## R1D012 - February 15, Tuesday, 2020
 
 - Did not have as much time today as planned.
 - Created another template for #nodejs libraries and applications.
@@ -112,11 +112,20 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1228881650383237122<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D013- February 16, Tuesday, 2020
+## R1D013 - February 16, Tuesday, 2020
 
 - A lot of bugfixes and small improvements today.
 - No this is not the release notes section of every app I have on my phone 😀
 - Seriously made my template generator much more bulletproof and added new cli options to skip some steps e.g. while testing.
 
 Tweet: https://twitter.com/MichaelHettmer/status/1229155478036455425<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D014 - February 17, Tuesday, 2020
+
+- Wrote a lot of unit tests.
+- Making the generator rock solid.
+- Started the promised gatsby template which will be divided in an app, a plugin and a theme template.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1229556533249355776<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
