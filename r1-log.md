@@ -129,3 +129,11 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1229556533249355776<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D015 - February 18, Tuesday, 2020
+
+- Did a lot of experimenting with GatsbyJS and Expo today.
+- And at this point I'm not sure anymore if I really want to build my portfolio as a website. React Native Web has improved a lot and real websites on mobile still feel like... well websites 😅
+- Of course this highly depends on the use case. But it's kind of funny how React Native emerged out of React as a native companion and now it is able to target web itself, making it the one tool to rule them all.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1229921899070869505
