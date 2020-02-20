@@ -9,7 +9,7 @@ The log of my [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode) ch
 
 Tweet: https://twitter.com/MichaelHettmer/status/1224829842094542848?s=20
 
-## R1D002 - February 5, Tuesday, 2020
+## R1D002 - February 5, Wednesday, 2020
 
 - Started an OpenSource project. It will be a collection of useful LaTeX tools I need myself including CI/CD templates. 
 - It was fun playing around with RenovateBot, the NPM registry, SemanticRelease and GitHub overall.
@@ -19,7 +19,7 @@ Tweet: https://twitter.com/MichaelHettmer/status/1224829842094542848?s=20
 Tweet: https://twitter.com/MichaelHettmer/status/1225185412836155392
 Project: https://github.com/MichaelHettmer/latex-toolkit
 
-## R1D003 - February 6, Tuesday, 2020
+## R1D003 - February 6, Thursday, 2020
 
 - Made some progress on latex-toolkit. Mostly building the base for the CLI functionality.
 - Until now all the code was written [test-driven](https://en.wikipedia.org/wiki/Test-driven_development) as much as possible.
@@ -30,7 +30,7 @@ Project: https://github.com/MichaelHettmer/latex-toolkit
 Tweet: https://twitter.com/MichaelHettmer/status/1225553331969568771<br/>
 Project: https://github.com/MichaelHettmer/latex-toolkit
 
-## R1D004 - February 7, Tuesday, 2020
+## R1D004 - February 7, Friday, 2020
 
 - I have created a package for all my @yeoman generators and templates. Will save me a lot of time future.
 - First time I tried a Pomodoro-based time tracker app. Turned out this is indeed a great way to stay focused. Didn't get lost in the rabbit hole today.
@@ -39,7 +39,7 @@ Project: https://github.com/MichaelHettmer/latex-toolkit
 Tweet: https://twitter.com/MichaelHettmer/status/1225813771387625475<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D005 - February 8, Tuesday, 2020
+## R1D005 - February 8, Saturday, 2020
 
 - Got lost in improving the infrastructure and build tools again. Too much automation. I guess my code doesn't need me anymore 😀
 - I also added a first actual template and the required copying logic. That part was quite tricky but I got it working 🎉
@@ -47,7 +47,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1226308424322953216<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D006 - February 9, Tuesday, 2020
+## R1D006 - February 9, Sunday, 2020
 
 - Had to meet an important deadline today so couldn't get much done here ⏱️
 - Nevertheless I worked a small night shift to add a master generator which can be used as a launcher for all available @yeoman subgenerators
@@ -58,7 +58,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1226680736834637824<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D007 - February 10, Tuesday, 2020
+## R1D007 - February 10, Monday, 2020
 
 - Another late shift today 🌙
 - But I finally have some running code to show, see GIF in linked tweet below.
@@ -76,7 +76,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1227391862304116736<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D009 - February 12, Tuesday, 2020
+## R1D009 - February 12, Wednesday, 2020
 
 - Played around a lot with @Docker and @gatsbyjs today.
 - Used my template generator to publish a small utility Docker image for building GatsbyJS projects in a CI.
@@ -85,7 +85,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1227748468845883394<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D010 - February 13, Tuesday, 2020
+## R1D010 - February 13, Thursday, 2020
 
 - A lot of @yeoman generator refactoring today.
 - Extracted code into base modules so that I can reuse them later.
@@ -94,7 +94,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1228109667978575872<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D011 - February 14, Tuesday, 2020
+## R1D011 - February 14, Friday, 2020
 
 - Wrote some unit and integration tests with Jest today.
 - Making sure those automated dependency upgrades won't break anything.
@@ -103,7 +103,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1228489884689747973<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D012 - February 15, Tuesday, 2020
+## R1D012 - February 15, Saturday, 2020
 
 - Did not have as much time today as planned.
 - Created another template for #nodejs libraries and applications.
@@ -112,7 +112,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1228881650383237122<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D013 - February 16, Tuesday, 2020
+## R1D013 - February 16, Sunday, 2020
 
 - A lot of bugfixes and small improvements today.
 - No this is not the release notes section of every app I have on my phone 😀
@@ -121,7 +121,7 @@ Project: https://github.com/MichaelHettmer/generator-mht
 Tweet: https://twitter.com/MichaelHettmer/status/1229155478036455425<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D014 - February 17, Tuesday, 2020
+## R1D014 - February 17, Monday, 2020
 
 - Wrote a lot of unit tests.
 - Making the generator rock solid.
@@ -138,10 +138,10 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1229921899070869505
 
-## R1D016 - February 19, Thursday, 2020
+## R1D016 - February 19, Wednesday, 2020
 
-- Business trip today and I'm soo tired. No time to code but I don't want to miss a post 🙃
-- I'll be working extra hard the next days.
+- Business trip today and I'm soo tired. No time to code but I don't want to miss a post so at least there was a twitter post 🙃
+- I'll be working extra hard the next days to compensate! Learned a lot about privacy and scalability of blockchain applications though.
 - A few more templates to go and then I'll start my portfolio website / blog development
 
 Tweet: https://twitter.com/MichaelHettmer/status/1230283209851666433
