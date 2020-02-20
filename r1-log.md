@@ -137,3 +137,11 @@ Project: https://github.com/MichaelHettmer/generator-mht
 - Of course this highly depends on the use case. But it's kind of funny how React Native emerged out of React as a native companion and now it is able to target web itself, making it the one tool to rule them all.
 
 Tweet: https://twitter.com/MichaelHettmer/status/1229921899070869505
+
+## R1D016 - February 19, Thursday, 2020
+
+- Business trip today and I'm soo tired. No time to code but I don't want to miss a post 🙃
+- I'll be working extra hard the next days.
+- A few more templates to go and then I'll start my portfolio website / blog development
+
+Tweet: https://twitter.com/MichaelHettmer/status/1230283209851666433
