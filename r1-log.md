@@ -151,5 +151,14 @@ Tweet: https://twitter.com/MichaelHettmer/status/1230283209851666433
 - Almost finished multiple Gatsby templates today for theme, plugin and website development.
 - Will continue tomorrow. Still tired 😀
 
-Tweet: https://twitter.com/MichaelHettmer/status/1230615882822377473
+Tweet: https://twitter.com/MichaelHettmer/status/1230615882822377473<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D018 - February 20, Friday, 2020
+
+- No post yesterday. One week into my new job and it's already hard to keep up.
+- BUT I actually prepared two more templates for the generator, so still got something done.
+- Hopefully I'll finish it today so I can move on to building my website.
+
+Tweet: https://twitter.com/MichaelHettmer/status/123116663553023590<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
