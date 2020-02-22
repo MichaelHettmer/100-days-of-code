@@ -154,7 +154,7 @@ Tweet: https://twitter.com/MichaelHettmer/status/1230283209851666433
 Tweet: https://twitter.com/MichaelHettmer/status/1230615882822377473<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D018 - February 20, Friday, 2020
+## R1D018 - February 21, Friday, 2020
 
 - No post yesterday. One week into my new job and it's already hard to keep up.
 - BUT I actually prepared two more templates for the generator, so still got something done.
