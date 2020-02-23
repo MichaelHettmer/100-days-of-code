@@ -162,3 +162,11 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/123116663553023590<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D019 - February 22, Saturday, 2020
+
+- Played a lot with Expo today.
+- Added i18n and a very basic offline-first approach to a small demo app.
+- It really is more important to think about perceived than measured performance. And a good offline caching strategy is part of it.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1231375884441006082<br/>
