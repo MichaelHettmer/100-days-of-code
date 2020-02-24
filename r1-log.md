@@ -179,3 +179,14 @@ Tweet: https://twitter.com/MichaelHettmer/status/1231375884441006082<br/>
 
 Tweet: https://twitter.com/MichaelHettmer/status/1231759469622763521<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D021 - February 24, Sunday, 2020
+
+- Worked on a React Native sideproject today.
+- Made progress simplifying its offline first state management with a hell of a lot TypeScript clutter abstracted away into separate modules.
+- This could become a cool little library
+- My new mission for tomorrow!
+- Also fixed some bugs in the generator application
+
+Tweet: https://twitter.com/MichaelHettmer/status/1232076756443594752<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
