@@ -170,3 +170,12 @@ Project: https://github.com/MichaelHettmer/generator-mht
 - It really is more important to think about perceived than measured performance. And a good offline caching strategy is part of it.
 
 Tweet: https://twitter.com/MichaelHettmer/status/1231375884441006082<br/>
+
+## R1D020 - February 23, Sunday, 2020
+
+- A huge step forward with my generator application.
+- Gatsby template can now reuse node template.
+- Tests are all working now even if generators are nested.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1231759469622763521<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
