@@ -180,7 +180,7 @@ Tweet: https://twitter.com/MichaelHettmer/status/1231375884441006082<br/>
 Tweet: https://twitter.com/MichaelHettmer/status/1231759469622763521<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
 
-## R1D021 - February 24, Sunday, 2020
+## R1D021 - February 24, Monday, 2020
 
 - Worked on a React Native sideproject today.
 - Made progress simplifying its offline first state management with a hell of a lot TypeScript clutter abstracted away into separate modules.
@@ -189,4 +189,13 @@ Project: https://github.com/MichaelHettmer/generator-mht
 - Also fixed some bugs in the generator application
 
 Tweet: https://twitter.com/MichaelHettmer/status/1232076756443594752<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D022 - February 25, Tuesday, 2020
+
+- Finished the template generator gatsby update and made a new release.
+- Publishing everything immediately on #npm and #GitHub is probably the best practice i've adopted so far while doing this challenge.
+- Forces you to write better code and documentation.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1232472309031587845<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
