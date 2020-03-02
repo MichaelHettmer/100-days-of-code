@@ -199,3 +199,47 @@ Project: https://github.com/MichaelHettmer/generator-mht
 
 Tweet: https://twitter.com/MichaelHettmer/status/1232472309031587845<br/>
 Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D023 - February 26, Wednesday, 2020
+
+- Today I built the infrastructure for selfhosting my portfolio.
+- Works really well. Hosting and auto deployment for each push on master is enabled.
+- The only thing that is missing now is the actual website 😅
+
+Tweet: https://twitter.com/MichaelHettmer/status/1232843165239054336<br/>
+Project: https://github.com/MichaelHettmer/website
+
+## R1D024 - February 27, Thursday, 2020
+
+- Fixes
+- Documentation and Readme updates
+- Sleep! :D Had a tough day at work so just a small update today
+
+Tweet: https://twitter.com/MichaelHettmer/status/1233158116386246659<br/>
+Project: https://github.com/MichaelHettmer/generator-mht
+
+## R1D025 - February 28, Friday, 2020
+
+- Docker research day
+- Learned about multistage builds
+- Will update my gatsby development container to be a hosting container as well
+- Awesome feature
+
+Tweet: https://twitter.com/MichaelHettmer/status/1233523118079139840
+
+## R1D026 - February 29, Saturday, 2020
+
+- Tried to start a website with my template generator
+- Found a few bugs in it and got lost fixing them
+- Will start my website another day when the gatsby template is working
+
+Tweet: https://twitter.com/MichaelHettmer/status/1233909129946767361<br/>
+Project: https://github.com/MichaelHettmer/website
+
+## R1D027 - March 1, Sunday, 2020
+
+- Free day. At least that is what sundays are for right?
+- Read one or two new things about docker.
+- Thought about possible layouts for my website.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1234263696794406914
