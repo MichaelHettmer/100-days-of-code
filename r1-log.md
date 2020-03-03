@@ -243,3 +243,12 @@ Project: https://github.com/MichaelHettmer/website
 - Thought about possible layouts for my website.
 
 Tweet: https://twitter.com/MichaelHettmer/status/1234263696794406914
+
+## R1D028 - March 2, Monday, 2020
+
+- I have started building my personal website by designing a simple start page.
+- The most difficult part for me is certainly deciding on the color theme and layout.
+- So many different ideas. We'll see how that turns out in the end.
+
+Tweet: https://twitter.com/MichaelHettmer/status/1234639210705031168?s=20<br/>
+Project: https://github.com/MichaelHettmer/website
